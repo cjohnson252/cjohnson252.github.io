@@ -1,7 +1,24 @@
 body {
 	background-color: #d1d1e0;
 }
-#topbar {
-	background-color: pink;
-	font: white;
+img {
+	display: inline;
+	margin: 0 auto;
+	height: 100%;
+	width: auto;
+}
+#top-bar {
+	background-color: #00ffff;
+	display: inline-block;
+	padding: 0px;
+}
+#image-container {
+	width: 100px;
+	height: 100px;
+	position: relative;
+	overflow: hidden;
+	border-radius: 50px;
+}
+#body {
+	text-align: center;
 }
