@@ -7,16 +7,15 @@ img {
 	height: 100%;
 	width: auto;
 }
+.top {
+	clear: both;
+}
+.headshot {
+	border-radius: 50%;
+}
 #top-bar {
 	background-color: #00ffff;
-	display: table-row;
-}
-#headshot-container {
-	width: 100px;
-	height: 100px;
-	position: relative;
-	overflow: hidden;
-	border-radius: 50px;
+	margin: none;
 }
 #body {
 	text-align: center;
