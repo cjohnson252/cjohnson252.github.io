@@ -9,10 +9,9 @@ img {
 }
 #top-bar {
 	background-color: #00ffff;
-	display: inline-block;
-	padding: 0px;
+	display: table-row;
 }
-#image-container {
+#headshot-container {
 	width: 100px;
 	height: 100px;
 	position: relative;
