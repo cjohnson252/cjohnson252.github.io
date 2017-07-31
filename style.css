@@ -8,7 +8,7 @@ img {
 	width: auto;
 }
 .top {
-	display: table-column;
+	display: table-cell;
 }
 .headshot {
 	border-radius: 50%;
