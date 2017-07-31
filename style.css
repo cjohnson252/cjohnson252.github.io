@@ -8,10 +8,12 @@ img {
 	width: auto;
 }
 .top {
-	clear: both;
+	display: table-column;
 }
 .headshot {
 	border-radius: 50%;
+	display: inline;
+	margin: auto;
 }
 #top-bar {
 	background-color: #00ffff;
